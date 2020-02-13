@@ -1,0 +1,12 @@
+{
+  "name": "react-controls",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "react": "^0.0.0-experimental-f42431abe",
+    "@material-ui/core": "^4.8.3",
+    "@material-ui/icons": "^4.5.1"
+  },
+  "devDependencies": {
+    "@types/react": "^16.9.17"
+  }
+}
